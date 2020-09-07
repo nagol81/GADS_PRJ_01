@@ -18,4 +18,4 @@
 
 ## Translations Completed
 - Lab 1: Google Cloud Fundamentals- Getting Started with Compute Engine
-- Lab 2: GVPC Networking
+- Lab 2: VPC Networking
