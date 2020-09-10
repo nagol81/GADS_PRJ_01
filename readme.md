@@ -15,6 +15,8 @@
 - Lab 12: Predict Visitor Purchases with a Classification Model with BigQuery ML
 - Lab 13: Recommend Products using ML with Cloud SQL and Dataproc
 - Lab 14: VPC Networking
+- Lab 15: AK8S-04 Creating a GKE Cluster via Cloud Shell
+- Lab 16: Building a DevOps Pipeline
 
 ## Translations Completed
 - Lab 1: Google Cloud Fundamentals- Getting Started with Compute Engine
